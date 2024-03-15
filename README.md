@@ -14,6 +14,7 @@ In the file,  `Final_Project_data_vis_and_analysis.py`, we used the cleaned data
 
 
 ## Future: Predictor model
+We were unable to complete this is time. However, we laid out the step we would have gone through to implement the predictor
 
 ### General Plan:
 - Randomize and split the dataset to create training data.
