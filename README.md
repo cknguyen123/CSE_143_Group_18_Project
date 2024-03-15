@@ -4,6 +4,7 @@ Dataset Obtained at: https://archive.ics.uci.edu/dataset/849/power+consumption+o
 
 ## Data Extraction
 Code File: `143_proj_data_extraction.py`
+
 In the file `143_proj_data_extraction.py`, we removed any outlier data and cleaned the output into a new CSV file. This demonstrates a practical example of data extraction and preprocessing.
 
 
