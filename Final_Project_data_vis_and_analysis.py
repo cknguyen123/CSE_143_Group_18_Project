@@ -496,7 +496,7 @@ def findFeatureImportances(data):
     columns_to_drop = ['DateTime']
     df = df.drop(columns=columns_to_drop)
     features = df.drop(columns=['Zone 1 Power Consumption', 'Zone 2  Power Consumption', 'Zone 3  Power Consumption']).columns
-    target = ['Zone 1 Power Consumption', 'Zone 2  Power Consumption', 'Zone 3  Power Consumption']
+    targets = ['Zone 1 Power Consumption', 'Zone 2  Power Consumption', 'Zone 3  Power Consumption']
     
     
     rfs = {}
@@ -548,9 +548,9 @@ def plotFeatureImportances(feature_importance_dfs):
     plt.show()
 
 # %%
-
+feature_importance_dfs = findFeatureImportances(data)
 
 # %%
-
+plotFeatureImportances(feature_importance_dfs)
 
 
