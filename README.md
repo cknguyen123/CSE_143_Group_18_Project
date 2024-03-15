@@ -9,9 +9,9 @@ In the file `143_proj_data_extraction.py`, we removed any outlier data and clean
 
 
 ## Data Visualization and Analysis
-Code File: `Final_Project_data_vis_and_analysis.py`
+Code File: `Final_Project_data_vis_and_analysis.ipynb`
 
-In the file,  `Final_Project_data_vis_and_analysis.py`, we used the cleaned data from the extraction section as our main dataset. We further processed the data frame to create hourly, daily, and monthly averages for each feature. We used these new datasets to create various visual plots to check features against time or power consumption. We combined the functions from analysis.py in the code file `Final_Project_data_vis_and_analysis.py`. The purpose of this was to analyze the visual plots to find any correlation of other features to power consumption in order to build a predictor.
+In the file,  `Final_Project_data_vis_and_analysis.ipynb`, we used the cleaned data from the extraction section as our main dataset. We further processed the data frame to create hourly, daily, and monthly averages for each feature. We used these new datasets to create various visual plots to check features against time or power consumption. We combined the functions from 'analysis.py' in the code file `Final_Project_data_vis_and_analysis.ipynb`. The purpose of this was to analyze the visual plots to find any correlation of other features to power consumption in order to build a predictor.
 
 
 ## Future: Predictor model
