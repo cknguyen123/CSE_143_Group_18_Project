@@ -16,7 +16,7 @@ In the file `143_proj_data_extraction.py`, we removed any outlier data and clean
 
 To run the code: 
 - Needs the dataset file
-- python 143_project_extraction.py 
+- >> python 143_project_extraction.py 
 
 
 ## Data Visualization and Analysis
