@@ -7,12 +7,18 @@ Code File: `143_proj_data_extraction.py`
 
 In the file `143_proj_data_extraction.py`, we removed any outlier data and cleaned the output into a new CSV file. This demonstrates a practical example of data extraction and preprocessing.
 
+To run the code: 
+Needs the dataset file
+>>python 143_project_extraction.py 
+
 
 ## Data Visualization and Analysis
 Code File: `Final_Project_data_vis_and_analysis.ipynb`
 
-In the file,  `Final_Project_data_vis_and_analysis.ipynb`, we used the cleaned data from the extraction section as our main dataset. We further processed the data frame to create hourly, daily, and monthly averages for each feature. We used these new datasets to create various visual plots to check features against time or power consumption. We combined the functions from 'analysis.py' in the code file `Final_Project_data_vis_and_analysis.ipynb`. The purpose of this was to analyze the visual plots to find any correlation of other features to power consumption in order to build a predictor.
+In the file,  `Final_Project_data_vis_and_analysis.ipynb`, we used the cleaned data from the extraction section as our main dataset. We further processed the data frame to create hourly, daily, and monthly averages for each feature. We used these new datasets to create various visual plots to check features against time or power consumption. We merged the functions from 'analysis.py' in the code file `Final_Project_data_vis_and_analysis.ipynb`. The purpose of this was to analyze the visual plots to find any correlation of other features to power consumption in order to build a predictor.
 
+To run the code:
+Open juptyer notebook, open `Final_Project_data_vis_and_analysis.ipynb` and run all cells
 
 ## Future: Predictor model
 We were unable to complete this is time. However, we laid out the steps we would have gone through to implement the predictor
