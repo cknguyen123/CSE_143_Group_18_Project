@@ -40,7 +40,7 @@ Open juptyer notebook, open `Final_Project_data_vis_and_analysis.ipynb` and run 
 Can also run "python Final_Project_data_vis_and_analysis.py"
 
 ## Future: Predictor model
-We were unable to complete this is time. However, we laid out the steps we would have gone through to implement the predictor
+We were unable to complete this in time. However, we laid out the steps we would have gone through to implement the predictor
 
 ### General Plan:
 - Randomize and split the dataset to create training data.
