@@ -9,7 +9,14 @@ Dataset Obtained at: https://archive.ics.uci.edu/dataset/849/power+consumption+o
 5. Final_Project_data_vis_and_analysis.ipynb
 
 Modules used: pandas, numpy, matplotlib.pyplot, defaultdict, seaborn, sklearn, sklearn.ensemble, calendar
-   
+
+To run our code, first download the dataset from the website above, then run 143_proj_data_extraction.py to generate a cleaned dataset. You can then run Final_Project_data_vis_and_analysis.ipynb in jupyter notebook to obtain the data plots.
+
+If you download a zip of our repo, you should be able to just run Final_Project_data_vis_and_analysis.ipynb as all necessary files are contained
+
+## Presentation File:
+ECE 143 Final Presentation Group.pdf
+
 ## Data Extraction
 Code File: `143_proj_data_extraction.py`
 
