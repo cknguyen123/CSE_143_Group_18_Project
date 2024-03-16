@@ -14,7 +14,7 @@ To run our code, first download the dataset from the website above, then run 143
 
 If you download a zip of our repo, you should be able to open a jupyter notebook and run 'Final_Project_data_vis_and_analysis.ipynb' as all necessary files are contained. 
 
-Final_Project_data_vis_and_analysis.ipynb is our main file that produces the visual data. 143_proj_data_extraction.py will generate a cleaned csv file that will use as our dataset. The file is included in this repo as 'Tetuan_City_power_consumption_cleaned.csv'
+Final_Project_data_vis_and_analysis.ipynb is our main file that produces the visual data. 143_proj_data_extraction.py will generate a cleaned csv file that will use as our dataset. The file is included in this repo as 'Tetuan_City_power_consumption_cleaned.csv'. Our analysis and conclusion can be read from our presentation slide pdf
 
 ## Presentation Slides File:
 ECE_143_Final_Presentation_Group.pdf
