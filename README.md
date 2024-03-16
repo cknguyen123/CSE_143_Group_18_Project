@@ -8,6 +8,7 @@ Dataset Obtained at: https://archive.ics.uci.edu/dataset/849/power+consumption+o
 4. analysis.py (merged into Final_Project_data_vis_and_analysis.py)
 5. Final_Project_data_vis_and_analysis.ipynb
 
+Modules used: pandas, numpy, matplotlib.pyplot, defaultdict, seaborn, sklearn, sklearn.ensemble, calendar
    
 ## Data Extraction
 Code File: `143_proj_data_extraction.py`
