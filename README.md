@@ -12,10 +12,12 @@ Modules used: pandas, numpy, matplotlib.pyplot, defaultdict, seaborn, sklearn, s
 
 To run our code, first download the dataset from the website above, then run 143_proj_data_extraction.py to generate a cleaned dataset. You can then run Final_Project_data_vis_and_analysis.ipynb in jupyter notebook to obtain the data plots.
 
-If you download a zip of our repo, you should be able to just run Final_Project_data_vis_and_analysis.ipynb as all necessary files are contained
+If you download a zip of our repo, you should be able to open a jupyter notebook and run 'Final_Project_data_vis_and_analysis.ipynb' as all necessary files are contained. 
 
-## Presentation File:
-ECE 143 Final Presentation Group.pdf
+Final_Project_data_vis_and_analysis.ipynb is our main file that produces the visual data. 143_proj_data_extraction.py will generate a cleaned csv file that will use as our dataset. The file is included in this repo as 'Tetuan_City_power_consumption_cleaned.csv'
+
+## Presentation Slides File:
+ECE_143_Final_Presentation_Group.pdf
 
 ## Data Extraction
 Code File: `143_proj_data_extraction.py`
@@ -23,7 +25,7 @@ Code File: `143_proj_data_extraction.py`
 In the file `143_proj_data_extraction.py`, we removed any outlier data and cleaned the output into a new CSV file. This demonstrates a practical example of data extraction and preprocessing.
 
 To run the code: 
-- Needs the dataset file Tetuan City power consumption.csv
+- Needs the dataset file Tetuan_City_power_consumption.csv
 - "python 143_project_extraction.py"
 
 
