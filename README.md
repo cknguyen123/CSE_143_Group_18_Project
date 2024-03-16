@@ -2,7 +2,7 @@
 ## Dataset
 Dataset Obtained at: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 
-## File Struction:
+## File Structure:
 1. 143_proj_data_extraction.py
 3. Final_Project_data_vis_and_analysis.py
 4. analysis.py (merged into Final_Project_data_vis_and_analysis.py)
