@@ -1,15 +1,22 @@
+
 ## Dataset
 Dataset Obtained at: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
 
+## File Struction:
+1. 143_proj_data_extraction.py
+3. Final_Project_data_vis_and_analysis.py
+4. analysis.py (merged into Final_Project_data_vis_and_analysis.py)
+5. Final_Project_data_vis_and_analysis.ipynb
 
+   
 ## Data Extraction
 Code File: `143_proj_data_extraction.py`
 
 In the file `143_proj_data_extraction.py`, we removed any outlier data and cleaned the output into a new CSV file. This demonstrates a practical example of data extraction and preprocessing.
 
 To run the code: 
-Needs the dataset file
->>python 143_project_extraction.py 
+- Needs the dataset file
+- python 143_project_extraction.py 
 
 
 ## Data Visualization and Analysis
